@@ -1,5 +1,3 @@
-#include<iostream>
-#include<cmath>
 using std::cout;
 int main(){
     bool i_love_pizza = false;
